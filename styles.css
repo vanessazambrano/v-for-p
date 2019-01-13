@@ -1,0 +1,129 @@
+h1{
+    text-align:center;
+    font-family: 'Ultra', serif;
+    display:flex;
+    border:dashed white;
+    background-color:pink;
+    color:white;
+    }
+    
+h2{
+    border:dashed white;
+    display:flex;
+    justify-content:center;
+    margin-top:20px;
+    color:white;
+    font-family: 'Abril Fatface', cursive;
+    }
+
+h3{
+    color:white;
+    font-size:15px;
+   }
+
+h4{
+    font-family: 'Raleway', sans-serif;
+    font-size:13px;
+    color:white;
+    }
+
+
+body{
+    background-color:pink;
+    text-align:center;
+    }
+
+
+#image1{
+   margin-left:170px;
+   width:300px;
+   border:solid white;
+    }
+
+p{
+   justify-content:flex-start;
+   color:white;
+   text-align:center;
+   font-family: 'Anton', sans-serif;
+   border:solid white;
+  }
+
+.p2{
+    background-color:blue;
+    border-radius:7px;
+    border:white solid;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: 'Anton', sans-serif;
+    }
+
+.container{
+    display:flex;
+    }
+
+#vanessa2{
+    padding:20px;
+    width:1000px;
+    }
+
+#image2{
+    width:170px;
+    }
+
+.rotateimg90 {
+  -webkit-transform:rotate(90deg);
+    }
+
+#image3{
+    padding:20px;
+    width:160px;
+    }
+
+#text1{
+    flex-grow:0;
+    display:flex;
+    justify-content:center;
+    }
+
+.container2{
+    display:flex;
+    }
+
+#vanessa4{
+    padding:10px;
+    }
+
+#image4{
+    width:150px;
+    }
+
+#vanessa5{
+    padding:30px;
+    }
+
+#image5{
+    width:190px;
+    margin-top:-15px;
+    }
+    
+#vanessa6{
+    margin-top:35px;
+    }
+    
+#image6{
+    width:170px;
+    }
+    
+.container3{
+    display:flex;
+    justify-content:space-between;
+    font-size:13px;
+    }
+
+a{
+    color:white;
+    }
